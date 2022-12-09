@@ -1,0 +1,6 @@
+import random
+l1=["A long back a poor boy used to live in a village named Gangapur.","A giant demon lived in the jungle.","There was a superhero."]
+l2=["His name was Tom.","He was very humble and used to help people.","He was very brave."]
+l3=["One day he was walking on the way.","He was collecting fruits.","He was playing with children."]
+l4=["He found a wallet which he returned to the owner.","He saw a child who fell into the well, so he helped him.","He saw some robbers robbing a girl, so he helped him out."]
+print(random.choice(l1)+random.choice(l2)+random.choice(l3)+random.choice(l4))
